@@ -1,0 +1,7 @@
+title: Muhammed Swafuvan
+description: Daily engineering logs, architecture notes, and cloud/devops learnings.
+theme: minima
+
+header_pages:
+  - index.md
+  - blog.md
