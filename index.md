@@ -1,8 +1,8 @@
 ---
-layout: home
-title: "Muhammed Swafuvan"
+layout: page
+title: "About Me"
+permalink: /
 ---
-# Muhammed Swafuvan  
 ### Engineering Leader | Technical Architect | Cloud & DevOps | .NET Enterprise Systems  
 
 Welcome to my daily engineering journal.
