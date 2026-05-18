@@ -56,8 +56,3 @@ If you're an engineer, architect, or someone exploring modern software practices
 Let’s build, learn, and grow — one day at a time.
 
 ---
-
-📌 **Connect with me:**  
-- LinkedIn: https://linkedin.com/in/muhammed-swafuvan  
-- Email: swafvan.softpro@gmail.com
-- Mobile: (91) 8129 75 9898
